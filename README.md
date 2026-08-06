@@ -1,8 +1,7 @@
 # Stock-advisor-bot
 # 📊 Stock Advisor Bot
 
-An autonomous AI-powered investment analysis agent built in Python. Every morning it analyzes live market data, generates personalized stock picks powered by Claude AI, and delivers a full briefing to your inbox — complete with risk scores, stop-losses, plain English explanations, and more.
-
+Python tool that pulls daily market data, screens equities against configurable criteria, and generates summary reports with volatility metrics.
 > ⚠️ **This project is for educational and experimental purposes only. Nothing it produces is financial advice.**
 
 ---
